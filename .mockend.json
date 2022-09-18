@@ -1,4 +1,5 @@
-[
+{
+  "Images" : [
   {
     "copyright": "ESA/HubbleNASA",
     "date": "2019-12-01",
@@ -253,3 +254,5 @@
     "url": "https://apod.nasa.gov/apod/image/1912/M33-HaLRGB-RayLiao1024.jpg"
   }
 ]
+ 
+}
